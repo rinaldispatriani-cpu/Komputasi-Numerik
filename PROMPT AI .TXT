@@ -1,0 +1,13 @@
+DAFTAR PROMPT AI – KOMPUTASI NUMERIK
+
+Nomor 5 – Algoritma SPL 3 Variabel
+
+Buatkan algoritma penyelesaian Sistem Persamaan Linear (SPL) tiga variabel menggunakan metode Eliminasi Gauss. Jelaskan langkah-langkah penyelesaiannya secara terstruktur dan mudah dipahami.
+
+Nomor 6 – Kode Python
+
+Buatkan program Python untuk menyelesaikan Sistem Persamaan Linear tiga variabel menggunakan metode Eliminasi Gauss dengan Pivot Sebagian. Program harus dapat dijalankan di Google Colab dan menampilkan hasil nilai x, y, dan z.
+
+Nomor 7 – Penjelasan Kode
+
+Tambahkan komentar dan keterangan detail pada setiap baris kode atau cell Python program Eliminasi Gauss. Jelaskan fungsi setiap perintah agar mudah dipahami oleh pemula dan dapat digunakan sebagai bahan presentasi.
